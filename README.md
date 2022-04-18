@@ -1,4 +1,4 @@
-# multilingual_news_similarity
-Repo for code and experiments track for SemEval 2022 Task 8: Multilingual News Article Similarity
+# SkoltechNLP at SemEval-2022 Task 8: Multilingual News Article Similarity
+This repository provides all the code that can be used to reproduce the results presented in our report.
 
 Link to the competitions [here](https://competitions.codalab.org/competitions/33835).
